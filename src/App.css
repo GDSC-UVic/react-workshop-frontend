@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.comment {
+  background-color:aqua;
+  border: 2px solid aqua;
+  text-align: left;
+  padding: 8px;
+  border-radius: 20px;
+  margin: 5px;
+  color:black
+}
