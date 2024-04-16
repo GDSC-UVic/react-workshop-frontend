@@ -50,3 +50,29 @@
   margin: 5px;
   color:black
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1em;
+}
+
+.form input {
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.form textarea {
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.form label {
+  margin: 0.5em;
+  flex: 1;
+}
