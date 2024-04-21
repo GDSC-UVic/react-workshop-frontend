@@ -3,7 +3,9 @@
 // 1. Create a Comment type with id, comment and author fields
 // 2. Create a CommentSection to fetch comments from an API and display them
 // 3. Add headers to authenticate the API request
-// 4. Add the component to the App component
+// 4. Write an html to display the comments using the map() function
+// 5. Add the component to the App component
+
 
 import { useEffect, useState } from "react";
 
